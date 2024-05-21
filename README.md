@@ -22,8 +22,8 @@
       <div class="isi">
         <typewritten-text>
           <b>to : saya</b><br /><br />
-          <b>Happy Congratulations🥳</b>, waktunya pensiun jadi siswa! akhirnya tiba juga harimu untuk bisa memulai langkah baru dan bisa bermanfaat buat orang banyak. akupun turut bahagia dan selamat wisuda, ya! <br /><br /
-          <b>from : anak kls 12🗿✌️</b>
+          <b>Happy Congratulations🥳</b>, Selamat Lulusnya Dan Semoga Hidup mu lancar. akupun turut bahagia dan selamat wisuda, ya! <br /><br /
+          <b>from : anak kls 10 😐✌️</b>
         </typewritten-text>
       </div>
     </div>
